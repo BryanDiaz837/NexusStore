@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+<rect width="800" height="1000" fill="#153f2f"/>
+<rect x="46" y="50" width="708" height="900" rx="30" fill="none" stroke="#b7f7d1" stroke-opacity=".25" stroke-width="4"/>
+<text x="70" y="130" fill="#b7f7d1" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">NEXUS GAMES</text>
+<line x1="70" y1="165" x2="730" y2="165" stroke="#b7f7d1" stroke-opacity=".35" stroke-width="3"/>
+<text x="400" y="510" fill="#b7f7d1" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800" text-anchor="middle">
+<tspan x="400" dy="0">FC 26</tspan>
+</text>
+<text x="400" y="880" fill="#b7f7d1" font-family="Arial, Helvetica, sans-serif" font-size="26" text-anchor="middle" opacity=".8">VIDEO GAME</text>
+</svg>
