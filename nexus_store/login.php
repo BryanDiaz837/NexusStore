@@ -61,7 +61,6 @@ include 'php/header.php';
       <button type="submit" class="btn btn-nexus w-100">Ingresar</button>
     </form>
     <p class="text-center small  mt-3 mb-0">¿No tienes cuenta? <a href="registro.php" class="text-accent">Regístrate</a></p>
-    <p class="text-center small  mt-2 mb-0">Admin demo: admin@nexusstore.com / admin123</p>
   </div>
 </div>
 
